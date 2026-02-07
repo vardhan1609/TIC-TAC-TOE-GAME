@@ -1,14 +1,5 @@
 <h1 align="center">TIC-TAC-TOE-GAME</h1>
 
-## :rocket: Knowledges
-
--   `ReactJS`
--   `Framer Motion`
-
-## :book: How to use
-
-To clone and run this application, you'll need [Git](https://git-scm.com/downloads). From your command line :
-
 ## Clone this repository
 
 ```
@@ -33,10 +24,14 @@ npm install // pnpm
 npm run dev
 ```
 
-Dockerfile build 
-
+## Dockerfile build 
+```
 docker build -t minimax-vite .
-
-Dockerfile run 
-
+```
+## Dockerfile run 
+```
 docker run -p 5173:5173 minimax-vite
+```
+
+
+This project is based on a publicly available repository from GitHub (original author: @ucfx). I have modified it by adding a Dockerfile and containerized the application. The Dockerized version has been deployed on AWS.
