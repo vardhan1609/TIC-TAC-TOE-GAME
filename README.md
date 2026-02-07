@@ -12,7 +12,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com/downloa
 ## Clone this repository
 
 ```
-git clone https://github.com/ucfx/TIC-TAC-TOE-GAME.git
+git clone https://github.com/vardhan1609/TIC-TAC-TOE-GAME.git
 ```
 
 ## Go into the repository
@@ -32,15 +32,6 @@ npm install // pnpm
 ```
 npm run dev
 ```
-
-## :link: Demo
-
--   <a target="_blank" href="https://ucfx.github.io/minimax-game-ai/"> Click Here </a> to see and play by yourself a demo of the game.
-
-## :mailbox: Contact
-
--   <a target="_blank" href="mailto:ucefhammadi@gmail.com">E-mail</a>
-
 
 Dockerfile build 
 
